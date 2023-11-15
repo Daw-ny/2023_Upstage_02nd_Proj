@@ -1,0 +1,42 @@
+name
+Albumin : LBXSAL
+Platelets : LBXPLTSI
+Cholesterol (mg/dL) : LBXSCH
+Total bilirubin (mg/dL) : LBXSTB
+Triglyceride (mg/dL) : LBXTR
+Alkaline phosphatase (IU/L) : LBXSAPSI
+Aspartate aminotransferase AST (U/L) [SGOT] : LBXSASSI
+Respondent sequence number : SEQN
+Serum Copper(ug/dL) : LBXSCU (*dL / 24 해야함)=======Alanine aminotransferase ALT (U/L) : LBXSATSI
+Hepatitis B Surface Antibody : LBXHBS
+Hepatitis B surface antigen : LBDHBG
+Hepatitis B core antibody : LBXHBC
+Fasting Glucose (mg/dL) : LBXGLU
+Creatinine (mg/dL) : LBXSCR
+Insulin (uU/mL) : LBXINIMQ020 : B형 간염 백신 3회 접종을 받은 적이 있습니까?
+HEQ010 : 의사나 기타 의료 전문가가 {귀하}에게 B형 간염이 있다고 {귀하에 걸렸다}고 말한 적이 있습니까?
+HEQ020 : B형 간염 치료를 위해 약을 처방한 적이 있습니까?
+HEQ030 : 의사나 기타 의료 전문가가 {귀하}에게 C형 간염이 있다고 {귀하에 걸렸다}고 말한 적이 있습니까?
+HEQ040 : C형 간염 치료를 위해 약을 처방한 적이 있습니까?
+MCQ170l : 아직도 . . . 간 질환이 있나요?
+MCQ180l : 몇 살이었습니까? . .간 질환이 있었나요?
+MCQ240m : How old (were you/was SP) when liver cancer was first diagnosed?
+MCQ160l : .간 질환이 있었나요?
+"MCQ240m : 간암이 처음 진단되었을 때 몇 살(당신은 SP였습니까?)이었습니까?DR1TALCO(DR1TOT_H) Alcohol (gm) DR1TOT_H Dietary Interview - Total Nutrient Intakes, First Day"
+"DR2TALCO(DR2TOT_H) Alcohol (gm) DR2TOT_H Dietary Interview - Total Nutrient Intakes, Second Day"
+"DR1IALCO(DR1IFF_H) Alcohol (gm) DR1IFF_H Dietary Interview - Individual Foods, First Day"
+"DR2IALCO(DR2IFF_H) Alcohol (gm) DR2IFF_H Dietary Interview - Individual Foods, Second Day[demo data]"
+DMDHRAGE : 연령
+DMDHRGND : 성별
+"ALQ101 다음 질문은 음주에 관한 것입니다. 주류(예: 위스키 또는 진), 맥주, 와인, 와인 쿨러 및 기타 모든 유형의 알코올 음료가 포함됩니다. 1년 동안 {귀하/SP가} 어떤 종류의 알코올 음료든 최소 12잔 이상 마셨습니까? 음료수는 12 온스를 의미합니다. 맥주, 5온스 와인 한 잔, 술 1.5온스.ALQ101 : 1년 동안 {귀하/SP가} 어떤 종류의 알코올 음료든 최소 12잔 이상 마셨습니까?"
+ALQ110 : {귀하의/SP의} 평생 동안 {당신은/그가/ 그녀가} 어떤 종류의 알코올 음료든 최소 12잔 이상 마셨습니까?
+"ALQ120Q : 조사: {귀하/SP}는 일주일에, 한 달에, 또는 일년에 며칠 동안 술을 마셨습니까?"
+ALQ120U : alchol 측정량
+ALQ130 : 지난 12개월 동안 {귀하/SP}가 술을 마신 날에 {귀/그/그녀}는 평균 몇 잔을 마셨습니까?
+ALQ141Q : 지난 12개월 동안 {귀하/SP}가 알코올 음료를 {DISPLAY NUMBER}잔 이상 마신 날이 며칠입니까?
+ALQ141U : alchol 측정량
+ALQ151 : {귀하/SP의} 인생에서 {귀하/그/그녀}가 거의 매일 {DISPLAY NUMBER}잔 이상의 알코올 음료를 마신 적이 있습니까?
+ALQ160 : 지난 30일 동안 {귀하/SP}는 약 2시간 동안 어떤 종류의 술이든 {DISPLAY NUMBER}잔 이상을 몇 번이나 마셨습니까?
+ALD020 : 귀하는 평생 동안 술을 한 잔 이상 마신 날이 며칠입니까?
+"ALD030 : 지난 30일 동안, 술을 한 잔 이상 마신 날은 며칠입니까?"
+"ALD040 : 지난 30일 동안 연속으로, 즉 몇 시간 내에 {DISPLAY NUMBER} 이상의 술을 마신 날은 며칠입니까?ALQ110 {귀하의/SP의} 평생 동안 {당신은/그가/ 그녀가} 어떤 종류의 알코올 음료든 최소 12잔 이상 마셨나요??(편집됨)?"
