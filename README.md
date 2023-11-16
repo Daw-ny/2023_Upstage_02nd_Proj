@@ -1,4 +1,5 @@
-# Team : URSA
+# Second Project : Exploring Risk Factors for Liver Disease: Hepatitis B, Hepatitis C, Cirrhosis![image](https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/1354d869-e9dd-4d19-8989-0532d1903844)
+
 
 ## 프로젝트 개요
 
