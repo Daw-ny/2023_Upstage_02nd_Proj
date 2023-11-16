@@ -12,9 +12,9 @@
 <table>
   <tr>
     <td> <div align=center> 👑 </div> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td> 1 </td>
+    <td> 2 </td>
+    <td> 3 </td>
   </tr>
   <tr>
     <td> <div align=center> <b>김도연</b> </div> </td>
