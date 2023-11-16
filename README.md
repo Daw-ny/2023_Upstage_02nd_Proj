@@ -67,7 +67,28 @@
   </tr>
 </table>
 
+<h3> 📽️ Project Intro </h3>
 
+<table>
+  <tr>
+    <td> <div align=center> <b> Subject </b> </div> </td>
+    <td> 간에 관련된 질병인 Hepatitis B, C와 Cirrhosis에 대해 EDA를 진행하고 이에 파생되는 가설 검증 </td>
+  </tr>
+  <tr>
+    <td> <div align=center> <b> Processing </b> </div> </td>
+    <td> 1. 데이터의 각 칼럼이 어떤 의미를 갖는지 확인하고 각 칼럼의 분포 및 결측, 이상치 존재여부 확인 </br>
+  2. 데이터 맞춤 전처리 및 이상치 대치 이후 기초통계량을 확인하고 병의 진행 집단별로 분석 가설을 세우고 적합한 방법으로 검증
+  </td>
+  </tr>
+  <tr>
+    <td> <div align=center> <b> Develop Enviroment </b> </div> </td>
+    <td> <tt>Tool</tt>: Jupyter Notebook, VS Code, Microsoft Excel</td>
+  </tr>
+  <tr>
+    <td> <div align=center> <b> Communication Enviroment </b> </div> </td>
+    <td> <tt>Notion</tt>: EDA프로젝트를 위한 역할분담, 아이디어 브레인 스토밍, 프로젝트 관련 회의 내용 기록 </br> <tt>SLACK, Zoom, Offline Meeting</tt>: 실시간 대면/비대면 회의 </td>
+  </tr>
+</table>
 
 
 
