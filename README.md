@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td> <div align=center> <b> 김도연 </b> </div> </td>
-    <td> <div align=center> <b>EDA</b>(데이터 별 결측치 및 이상치 탐색, 분포 확인),</br> <b>파생변수</b>(Hepatitis B 감염환자 여부 생성) </div> </td>
+    <td> <b>EDA</b>(데이터 별 결측치 및 이상치 탐색, 분포 확인),</br> <b>파생변수</b>(Hepatitis B 감염환자 여부 생성) </td>
   </tr>
   <tr>
     <td> <div align=center> <b> 서상혁 </b> </div> </td>
