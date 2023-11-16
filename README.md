@@ -10,12 +10,23 @@
 
 <h3> 👪 Members </h3>
 <table>
-  
   <tr>
-    <td> <div align=center>  <b>김도연</b> </div> </td>
-    <td> <b>서상혁</b> </td>
-    <td> <b>김다운</b> </td>
-    <td> <b>신동혁</b> </td>
+    <td> <div align=center> 👑 </div> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> <div align=center> <b>김도연</b> </div> </td>
+    <td> <div align=center> <b>서상혁</b> </div> </td>
+    <td> <div align=center> <b>김다운</b> </div> </td>
+    <td> <div align=center> <b>신동혁</b> </div> </td>
+  </tr>
+  <tr>
+    
+
+
+    
   </tr>
   <tr>
     <td> <a href="https://github.com/d-yeon"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </td>
