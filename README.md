@@ -24,9 +24,9 @@
   </tr>
   <tr>
     <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/8d57d084-1d8c-4306-8765-b8d05cd1fc73"/> </td>
-    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/b4b08254-d181-45ab-9e99-50f3e68b2158"/> </td>
+    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/a7be969c-b5ad-4f14-9dd9-cb72640c49a3"/> </td>
     <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/37f278cf-3c62-44ca-a49d-6a7799078b4c"/> </td>
-    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/e1debb52-d2bf-4962-a13f-91abf663d9c6"/> </td>
+    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/cbd0651a-4d70-41d8-aad3-b654c42f16e2"/> </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/d-yeon"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </td>
