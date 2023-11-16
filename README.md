@@ -10,14 +10,13 @@
 
 <h3> 👪 Members </h3>
 <table>
-  <div align=center> 
+  
   <tr>
-    <td> <b>김도연</b> </td>
+    <td> <div align=center>  <b>김도연</b> </div> </td>
     <td> <b>서상혁</b> </td>
     <td> <b>김다운</b> </td>
     <td> <b>신동혁</b> </td>
   </tr>
-  </div>
   <tr>
     <td> <a href="https://github.com/d-yeon"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </td>
     <td> <a href="https://github.com/S-RSH"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </td>
