@@ -12,9 +12,9 @@
 <table>
   <tr>
     <td> <div align=center> 👑 </div> </td>
-    <td> <div align=center> 1 </div> </td>
-    <td> <div align=center> 2 </div> </td>
-    <td> <div align=center> 3 </div> </td>
+    <td> <div align=center>  1 </div> </td>
+    <td> <div align=center>  2 </div> </td>
+    <td> <div align=center>  3 </div> </td>
   </tr>
   <tr>
     <td> <div align=center> <b>김도연</b> </div> </td>
@@ -23,10 +23,10 @@
     <td> <div align=center> <b>신동혁</b> </div> </td>
   </tr>
   <tr>
-    <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/8d57d084-1d8c-4306-8765-b8d05cd1fc73"/>
-
-
-    
+    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/8d57d084-1d8c-4306-8765-b8d05cd1fc73"/> </td>
+    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/8d57d084-1d8c-4306-8765-b8d05cd1fc73"/> </td>
+    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/8d57d084-1d8c-4306-8765-b8d05cd1fc73"/> </td>
+    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/8d57d084-1d8c-4306-8765-b8d05cd1fc73"/> </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/d-yeon"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </td>
