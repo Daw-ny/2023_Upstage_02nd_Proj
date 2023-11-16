@@ -12,8 +12,8 @@
 <table>
   <tr>
     <td> <b>김도연</b> </td>
-    <td> <b>서상혁</b </td>
-    <td> <b>김다운</b </td>
-    <td> <b>신동혁</b </td>
+    <td> <b>서상혁</b> </td>
+    <td> <b>김다운</b> </td>
+    <td> <b>신동혁</b> </td>
   </tr>
 </table>
