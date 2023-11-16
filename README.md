@@ -46,24 +46,24 @@
 
 <table>
   <tr>
-    <div align=center> <b> 이름 </b> </div> </td>
-    <div align=center> <b> 역할 </b> </div> </td>
+    <td> <div align=center> <b> 이름 </b> </div> </td>
+    <td> <div align=center> <b> 역할 </b> </div> </td>
   </tr>
   <tr>
-    <div align=center> <b> 김도연 </b> </div> </td>
-    <div align=center> <b>EDA</b>(데이터 별 결측치 및 이상치 탐색, 분포 확인), <b>파생변수</b>(Hepatitis B 감염환자 여부 생성) </div> </td>
+    <td> <div align=center> <b> 김도연 </b> </div> </td>
+    <td> <div align=center> <b>EDA</b>(데이터 별 결측치 및 이상치 탐색, 분포 확인), <b>파생변수</b>(Hepatitis B 감염환자 여부 생성) </div> </td>
   </tr>
   <tr>
-    <div align=center> <b> 서상혁 </b> </div> </td>
-    <div align=center> <b>EDA</b>() </div> </td>
+    <td> <div align=center> <b> 서상혁 </b> </div> </td>
+    <td> <div align=center> <b>EDA</b>() </div> </td>
   </tr>
   <tr>
-    <div align=center> <b> 김다운 </b> </div> </td>
-    <div align=center> <b>EDA</b>() </div> </td>
+    <td> <div align=center> <b> 김다운 </b> </div> </td>
+    <td> <div align=center> <b>EDA</b>() </div> </td>
   </tr>
   <tr>
-    <div align=center> <b> 신동혁 </b> </div> </td>
-    <div align=center> <b>EDA</b>() </div> </td>
+    <td> <div align=center> <b> 신동혁 </b> </div> </td>
+    <td> <div align=center> <b>EDA</b>() </div> </td>
   </tr>
 </table>
 
