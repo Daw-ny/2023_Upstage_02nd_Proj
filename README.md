@@ -23,10 +23,10 @@
     <td> <div align=center> <b>신동혁</b> </div> </td>
   </tr>
   <tr>
-    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/8d57d084-1d8c-4306-8765-b8d05cd1fc73" width="100" height="200"/> </td>
-    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/a7be969c-b5ad-4f14-9dd9-cb72640c49a3" width="100" height="200"/> </td>
-    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/37f278cf-3c62-44ca-a49d-6a7799078b4c" width="100" height="200"/> </td>
-    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/cbd0651a-4d70-41d8-aad3-b654c42f16e2" width="100" height="200"/> </td>
+    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/8d57d084-1d8c-4306-8765-b8d05cd1fc73" width="200" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/a7be969c-b5ad-4f14-9dd9-cb72640c49a3" width="200" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/37f278cf-3c62-44ca-a49d-6a7799078b4c" width="200" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/Daw-ny/Upstage_02nd_Proj/assets/76687996/cbd0651a-4d70-41d8-aad3-b654c42f16e2" width="200" height="300"/> </td>
   </tr>
   <tr>
     <td> <a href="https://github.com/d-yeon"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </td>
