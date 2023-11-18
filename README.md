@@ -92,10 +92,16 @@
 
 <h3> 📆 Project Procedure </h3>
 
-[11조 URSA](https://www.notion.so/11-e525c7c651aa46c5954548eb2cad2e29?pvs=4)
+>  자세한 진행 내용은 [11조 URSA](https://www.notion.so/11-e525c7c651aa46c5954548eb2cad2e29?pvs=4)
 
 <h3> 📂 Project Structure </h3>
 
+> - 
+
 <h3> ⚙️ Architecture </h3>
 
+> 모델링 적용을 하지 않았기 때문에 skip
+
 <h3> 💻 Getting Started </h3>
+
+> 
