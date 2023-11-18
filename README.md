@@ -90,5 +90,12 @@
   </tr>
 </table>
 
+<h3> 📆 Project Procedure </h3>
 
+[11조 URSA](https://www.notion.so/11-e525c7c651aa46c5954548eb2cad2e29?pvs=4)
 
+<h3> 📂 Project Structure </h3>
+
+<h3> ⚙️ Architecture </h3>
+
+<h3> 💻 Getting Started </h3>
